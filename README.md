@@ -33,20 +33,6 @@ Informatics student passionate about web and backend development, with hands-on 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
  
-
----
-
-## Selected Projects
-
-**CRUD Peminjaman Barang**  
-Inventory borrowing and return management system built with Laravel, featuring authentication and transaction history.
-
-**Sistem Pendukung Keputusan (AHP & SAW)**  
-Decision support system for evaluation and ranking using AHP and SAW methods.
-
-**Fast Track – Stemi**  
-Hospital broadcast information system for delivering internal announcements efficiently.
-
 ---
 
 ## Tools & Technologies
