@@ -4,8 +4,8 @@
 
 # Muhammad Ferdiy Ariyanto
 
-Informatics student with a strong interest in web and backend development.  
-Currently learning and building projects using Laravel and MySQL.
+Informatics student passionate about web and backend development, with hands-on experience building academic and personal projects.  
+Currently focused on developing practical applications using Laravel and MySQL while continuously improving problem-solving and system design skills.
 
 ---
 
