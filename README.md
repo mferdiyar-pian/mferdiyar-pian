@@ -2,7 +2,10 @@
   <img src="img/banner.png" alt="GitHub Header Banner" width="100%" />
 </p>
 
-Informatics student passionate about web and backend development, with hands-on experience building academic and personal projects.  Currently focused on developing practical applications using Laravel and MySQL while continuously improving problem-solving and system design skills.
+Hai saya Muhammad Ferdiy Ariyanto, Mahasiswa Politeknik Negeri Tanah Laut dari program studi Teknologi Informasi yang tertarik di bidang pengembangan web dan backend.  
+Lagi fokus membangun berbagai project pakai Laravel dan MySQL, sambil terus belajar hal baru, ngopi, dan berteman akrab dengan error yang kadang datang tanpa permisi.
+
+Sedang dalam perjalanan menjadi developer yang lebih rapi kodenya, lebih cepat debugging-nya, dan lebih jarang bilang “loh kok bisa error ya?”.
 
 ---
 
