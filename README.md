@@ -2,10 +2,7 @@
   <img src="img/banner.png" alt="GitHub Header Banner" width="100%" />
 </p>
 
-# Muhammad Ferdiy Ariyanto
-
-Informatics student passionate about web and backend development, with hands-on experience building academic and personal projects.  
-Currently focused on developing practical applications using Laravel and MySQL while continuously improving problem-solving and system design skills.
+Informatics student passionate about web and backend development, with hands-on experience building academic and personal projects.  Currently focused on developing practical applications using Laravel and MySQL while continuously improving problem-solving and system design skills.
 
 ---
 
