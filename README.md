@@ -56,5 +56,6 @@ Hospital broadcast information system for delivering internal announcements effi
 
 ## Contact
 
-📧 Email: mferdiyar@gmail.com  
-📷 Instagram: @pianpunkk
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mferdiyar@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pianpunkk)
+
