@@ -50,7 +50,7 @@ Hospital broadcast information system for delivering internal announcements effi
 
 ## GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mferdiyar-pian&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mferdiyar-pian&show_icons=true&theme=tokyonight)
 
 ---
 
