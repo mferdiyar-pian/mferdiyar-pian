@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/github-header-banner.png" alt="GitHub Header Banner" width="100%" />
+  <img src="img/banner.png" alt="GitHub Header Banner" width="100%" />
 </p>
 
 # Muhammad Ferdiy Ariyanto
