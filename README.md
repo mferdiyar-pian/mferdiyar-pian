@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Muhammad Ferdiy Ariyanto 👋
 
-<!--
-**mferdiyar-pian/mferdiyar-pian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Student  
+💻 Web & Backend Developer  
+🚀 Currently learning Laravel, MySQL, and System Design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- 💻 Languages: PHP, Java, JavaScript, HTML, CSS  
+- 🗄 Database: MySQL  
+- ⚙️ Tools: Git, XAMPP, VS Code  
+- 🌐 Framework: Laravel  
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 CRUD Peminjaman Barang
+Sistem pencatatan peminjaman dan pengembalian barang berbasis Laravel dengan fitur login, CRUD data, dan riwayat transaksi.
+
+### 🔹 Sistem Pendukung Keputusan (AHP & SAW)
+Aplikasi SPK untuk membantu pengambilan keputusan menggunakan metode AHP dan SAW.
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mferdiyar-pian&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+📧 Email: mferdiyar@gmail.com
