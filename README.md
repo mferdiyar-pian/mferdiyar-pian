@@ -1,33 +1,36 @@
-# Hi, I'm Muhammad Ferdiy Ariyanto 👋
+# Muhammad Ferdiy Ariyanto
 
-🎓 Informatics Student  
-💻 Web & Backend Developer  
-🚀 Currently learning Laravel, MySQL, and System Design  
-
----
-
-## 🛠 Tech Stack
-- 💻 Languages: PHP, Java, JavaScript, HTML, CSS  
-- 🗄 Database: MySQL  
-- ⚙️ Tools: Git, XAMPP, VS Code  
-- 🌐 Framework: Laravel  
+Informatics Student with an interest in web and backend development.  
+Currently learning and building projects using Laravel and MySQL.
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 CRUD Peminjaman Barang
-Sistem pencatatan peminjaman dan pengembalian barang berbasis Laravel dengan fitur login, CRUD data, dan riwayat transaksi.
-
-### 🔹 Sistem Pendukung Keputusan (AHP & SAW)
-Aplikasi SPK untuk membantu pengambilan keputusan menggunakan metode AHP dan SAW.
+## Tech Stack
+**Languages:** PHP, Java, JavaScript, HTML, CSS  
+**Database:** MySQL  
+**Tools:** Git, XAMPP, VS Code  
+**Framework:** Laravel  
 
 ---
 
-## 📊 GitHub Stats
+## Selected Projects
+
+**CRUD Peminjaman Barang**  
+Inventory borrowing and return management system built with Laravel.
+
+**Sistem Pendukung Keputusan (AHP & SAW)**  
+Decision support system using AHP and SAW methods for evaluation and ranking.
+
+**Fast Track – Stemi**  
+Hospital broadcast information system.
+
+---
+
+## GitHub Statistics
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mferdiyar-pian&show_icons=true&theme=tokyonight)
 
 ---
 
-## 📫 Contact Me
-📧 Email: mferdiyar@gmail.com
+## Contact
+Email: mferdiyar@gmail.com
+Instagram: pianpunkk
