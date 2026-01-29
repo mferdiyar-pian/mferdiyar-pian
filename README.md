@@ -1,4 +1,4 @@
-# Muhammad Ferdiy Ariyanto - pianpunkk
+![mferdiyar-](img/github-header-banner.png)
 
 Informatics Student with an interest in web and backend development.  
 Currently learning and building projects using Laravel and MySQL.
