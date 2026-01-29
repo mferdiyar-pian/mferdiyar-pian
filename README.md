@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/pianpunkk.png" alt="GitHub Header Banner" width="100%" />
+  <img src="img/banner3.png" alt="GitHub Header Banner" width="100%" />
 </p>
 
 Hai saya Muhammad Ferdiy Ariyanto, Mahasiswa Politeknik Negeri Tanah Laut dari program studi Teknologi Informasi yang tertarik di bidang pengembangan web dan backend.  
